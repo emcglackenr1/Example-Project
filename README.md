@@ -1,4 +1,4 @@
-# Example-Project
+# Example-Project - Creating for Teaching Purposes
 Details about project
 
 
